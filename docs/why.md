@@ -3,7 +3,7 @@
 #### [prev](./welcome.md) | [home](./welcome.md)  | [next](./concepts.md)
 
 
-###  What is Azure Marketplace? How is Azure Marketplace different from AppSource? Why are there two different storefronts?
+###  Technical Deep-dive in publishing solutions to the Commercial Marketplace 
 
 ###  As a publisher, what are the different offers in the Commercial Marketplace?  How do I know which one best suits for my application? 
 Qualify the right transactable offer type for the application:

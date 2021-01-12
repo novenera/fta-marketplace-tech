@@ -12,10 +12,10 @@
 ![Feedback screenshot](/images/feedback.png)
 
 Agenda
-1. [Why](./docs/why.md)
-1. [Concepts](./docs/concepts.md)
-1. [SaaS Transact](./docs/saastransact.md)
-1. [Managed Applications](./docs/managedapp.md)
-1. [QnA](./docs/faq.md)
+1. [Why](./why.md)
+1. [Concepts](./concepts.md)
+1. [SaaS Transact](./saastransact.md)
+1. [Managed Applications](./managedapp.md)
+1. [QnA](./faq.md)
 
 

@@ -12,6 +12,7 @@
 ![Feedback screenshot](/images/feedback.png)
 
 Agenda
+1. [Why](./docs/why.md)
 1. [Concepts](./docs/concepts.md)
 1. [SaaS Transact](./docs/saastransact.md)
 1. [Managed Applications](./docs/managedapp.md)

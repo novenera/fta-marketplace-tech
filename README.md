@@ -16,5 +16,5 @@ Agenda
 1. [Concepts](./docs/concepts.md)
 1. [SaaS Transact](./docs/saastransact.md)
 1. [Managed Applications](./docs/managedapp.md)
-1. [QnA](./docs/faq.md)
+1. [References](./docs/references.md)
 

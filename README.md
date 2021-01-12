@@ -9,7 +9,7 @@
 
 **Feeback** We would love to hear your thoughts, please provide us your feedback [//aka.ms/ftalive](https://aka.ms/ftalive).
 
-![Feedback screenshot](/png/feedback.png)
+![Feedback screenshot](/images/feedback.png)
 
 Agenda
 1. [Why?](./why.md)

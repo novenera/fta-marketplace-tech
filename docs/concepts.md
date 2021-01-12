@@ -1,4 +1,12 @@
 # Concepts
-## A quick brown fox jumped over the lazy dog.
+#### [prev](./why.md) | [home](./welcome.md)  | [next](./saastransact.md)
 
-> A quick brown fox jumped over the lazy dog.
+### What is Commercial Marketplace?
+
+### One Cloud Marketplace, Two Storefronts?
+Where Customers find, try and buy/deploy industry leading cloud solutions
+- Azure Marketplace - Cloud Developers & IT Pros
+- App Source - Business Users
+
+### What has changed?
+

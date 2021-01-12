@@ -4,9 +4,8 @@
 ### What is Commercial Marketplace?
 
 ### One Cloud Marketplace, Two Storefronts?
-Where Customers find, try and buy/deploy industry leading cloud solutions
-- Azure Marketplace - Cloud Developers & IT Pros
-- App Source - Business Users
+
+![Feedback screenshot](/images/storefront.svg)
 
 ### What has changed?
 

@@ -25,5 +25,5 @@
 ## Demo
 ![Managed App Options](/images/manage_app_options.png)
 - Creating Managed Application, and test publish this internally as a Service Catalog App - [Quickstart: Create and publish a managed application definition](https://docs.microsoft.com/en-us/azure/azure-resource-manager/managed-applications/publish-service-catalog-app?tabs=azure-powershell)
-- Once you have the Managed Application and its deployable package, you can proceed to [create Azure application offer] (https://docs.microsoft.com/en-us/azure/marketplace/create-new-azure-apps-offer) in the Commercial Marketplace.
-- As a publisher, ensure that you keep track of all your customer subscriptions by setting up [customer usage attribution] (https://docs.microsoft.com/en-us/azure/marketplace/azure-partner-customer-usage-attribution)
+- Once you have the Managed Application and its deployable package, you can proceed to [create Azure application offer](https://docs.microsoft.com/en-us/azure/marketplace/create-new-azure-apps-offer) in the Commercial Marketplace.
+- As a publisher, ensure that you keep track of all your customer subscriptions by setting up [customer usage attribution](https://docs.microsoft.com/en-us/azure/marketplace/azure-partner-customer-usage-attribution)

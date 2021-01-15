@@ -1,5 +1,5 @@
 # Azure Application - Managed Application
-#### [prev](./saastransact.md) | [home](./welcome.md)  | [next](./managedapp.md)
+#### [prev](./saastransact.md) | [home](./welcome.md)  | [next](./references.md)
 - Solution template plans, on the other hand, are non-transactable in the commercial marketplace but can be used to deploy paid VMs. Use this when the customer will manage the solution and transactions are build through another plan.
 - Managed Application (aka Manage App) is a type of Azure Application offer plan to publish solution to the commercial marketplace that is transactable, used to deploy solution into the customer's subscription that will be managed by the partner/publisher.  
 - We will focus on creating and publishing Managed App.

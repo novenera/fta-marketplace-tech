@@ -1,8 +1,13 @@
 #  References
 
+## Azure Marketplace
+| Topic | Description
+|:----- | :----------
+|[Intro to Microsoft Commercial Marketplace](http://aka.ms/LearnMarketplace)
+
 ## SaaS Transact
 
-| Topic | Description																										 
+| Topic | Description
 |:----- | :----------    
 | [Commercial marketplace documentation](https://docs.microsoft.com/en-us/azure/marketplace/) | Getting started and top articles									
 | [SaaS applications in the commercial marketplace](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-new-saas-offer) | Overview of the SaaS SaaS application business policies, plus step-by step offer creation and configuration requirements.
@@ -22,3 +27,10 @@
 | [Create an Azure application offer](https://docs.microsoft.com/en-us/azure/marketplace/partner-center-portal/create-new-azure-apps-offer?toc=/azure/azure-resource-manager/managed-applications/toc.json#properties)  | 
 | [Work with resources in the managed resource group for Azure managed application](https://docs.microsoft.com/en-us/azure/azure-resource-manager/managed-applications/update-managed-resources)  | 
 | [Video tutorial: Simple Azure Managed Application: creating, testing, and publishing in Partner Center](https://arsenvlad.medium.com/simple-azure-managed-application-creating-testing-and-publishing-in-partner-center-d2cb3b98bed2)  | 
+
+
+## Other
+| Topic | Description
+|:----- | :----------
+|[Azure and Azure Marketplace — ISVs and Startups — My Collection of Useful Links and Resources](https://arsenvlad.medium.com/azure-and-azure-marketplace-isvs-and-startups-collection-of-useful-links-and-resources-871dc367dd40) | Collection of links related to Azure and Azure Marketplace by Arsen Vladimirskiy
+

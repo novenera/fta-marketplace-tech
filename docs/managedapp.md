@@ -21,6 +21,8 @@
 - Create an Azure Active Directory (AAD) app, you need to share your AAD Direcotry (tenant) ID and AAD application ID.
 - AAD application ID will be associated to your publisher ID and can only be re-used within this publisher account.
 
+## Best Practices
+- Deployment scripts need to be written in either Azure CLI or Powershell, but not a combination of both.
 
 ## Demo
 ![Managed App Options](/images/manage_app_options.png)

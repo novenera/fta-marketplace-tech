@@ -10,9 +10,11 @@
 - To qualify which right transactable offer type for you
 - To understand how metering works and how to configure this for my offer
 
-### Assumptions
+### Pre-requisites
 - You have provisioned Partner Center account
-- You have a solution deployed (or planning to deploy) to Azure
+- You have a solution deployed (or planning to deploy) to Azure (IaaS, PaaS) 
 - You have a "Contact Me" offer in the Marketplace 
 
+### Out of Scope
+- Deployment of D365, O365 and Power Apps 
 

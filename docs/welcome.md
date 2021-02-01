@@ -1,4 +1,4 @@
-# Welcome to the FastTrack for Azure - Azure Marketplace Technical Call
+# Welcome to the FastTrack for Azure - Azure Marketplace Technical Session
 
 > This call will not be recorded due to the wide audience and to encourage questions.
 

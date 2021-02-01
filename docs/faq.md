@@ -8,6 +8,8 @@ You need to configure you AD app registration for your web app.  For you to auto
 
 The managed identity would need to be assigned to the [Application Administrator role](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference#application-administrator) (or any custom AD role that has the permission to create application registration such as ‘microsoft.directory/applications/createAsOwner’ or ‘microsoft.directory/applications/create’, more on this [here](https://docs.microsoft.com/en-us/azure/active-directory/roles/custom-available-permissions)) and only the Global Administrator can do this.  
 
+![Assign user-managed identity to AD role screenshot](/images/assignadrole.png)
+
 Then, pass this managed identity as a parameter to the managed app thru the [Identity selector](https://docs.microsoft.com/en-us/azure/azure-resource-manager/managed-applications/microsoft-managedidentity-identityselector).
  
 

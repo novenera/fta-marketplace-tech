@@ -7,7 +7,7 @@
 - Sell through Microsoft (aka Transactable, SaaS Transact)
 
 ## Upgrade flow
-- Contact Me -> Trial = Repulish offer 
+- Contact Me -> Trial = Republish offer 
 - Contact Me -> Transact = Create new offer
 - Trial -> Transact = Create New Offer
 - To add Testdrive to any offer = Republish offer

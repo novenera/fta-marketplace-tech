@@ -1,7 +1,7 @@
 # Frequently Asked Questions
 
 ## I have written CLI and Powershell scripts to deploy my solution instead of ARM templates, how will I be able to call these scripts to deploy my Managed app?
-You can do that using [ARM deployment scripts](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/deployment-script-template)
+You can do that using [ARM deployment scripts](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/deployment-script-template).
 
 ## My managed app solution is a web app and I would like configure it to use Azure AD login, how do I do that?
 You need to configure you AD app registration for your web app.  For you to automate this, you would need to write a deployment script and provide a user-assigned managed identity with all the required permissions to perform actions defined in you script.  

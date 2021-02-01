@@ -3,7 +3,7 @@
 #### [prev](./welcome.md) | [home](./welcome.md)  | [next](./concepts.md)
 
 ### Why are we here
-- Follow-up to the Azure Marketplace: Intro session
+- Follow-up to the FTA Live: ISV Marketplace
 
 ### Goals
 - To help simplify the publishing transactable offers to the Commercial Marketplace

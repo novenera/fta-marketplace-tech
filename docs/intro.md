@@ -19,5 +19,5 @@
 - You have a "Contact Me" offer in the Marketplace 
 
 ### Out of Scope
-- Deployment of D365, O365 and Power Apps 
+- Deployment of D365, O365 and Power Apps to the Commercial Marketplace (AppSource)
 

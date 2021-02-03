@@ -37,6 +37,26 @@ More details [here](https://docs.microsoft.com/en-us/azure/marketplace/plan-saas
 
 ![SaaS Moving Parts - AD Requirements](/images/saasmovingparts.png)
 
+## Architecture Choices
+
+![SaaS Architectural Choices](/images/archchoices.png)
+
+
+## Dev/Test approach
+- Plan creating two offers, test and public
+- With test
+  - Have the same marketing language as the public
+  - Add preview users
+  - Add plans/meters with $0
+  - Publish
+  - **DO NOT GO PUBLIC!**
+  ![SaaS Preview Offer](/images/previewoffer.png)
+- With public
+  - Replicate marketing content
+  - Add real plans
+  - Publish
+
+
 ## Demo
 - Creating SaaS Transact offer listing
 - Configuring Sample Customer Provisioning App, based from the reference example in [Microsoft Commercial Marketplace - Community Sample Code and SDK for SaaS Applications](https://github.com/Azure/Microsoft-commercial-marketplace-transactable-SaaS-offer-SDK)

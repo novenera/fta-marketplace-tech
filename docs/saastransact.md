@@ -7,10 +7,10 @@
 - Sell through Microsoft (aka Transactable, SaaS Transact)
 
 ## Upgrade flow
-- Contact Me -> Trial = Republish offer 
+- Contact Me -> Trial = Re-publish offer 
 - Contact Me -> Transact = Create new offer
 - Trial -> Transact = Create New Offer
-- To add Test Drive to any offer = Republish offer
+- To add Test Drive to any offer = Re-publish offer
 
 ## Minimum technical requirements for Contact Me
 - There's none, aside from just connecting to the CRM system to managed [customer leads](https://docs.microsoft.com/en-us/azure/marketplace/plan-saas-offer#customer-leads).

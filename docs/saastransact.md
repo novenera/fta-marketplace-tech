@@ -6,6 +6,11 @@
 - Get it now (Free)
 - Sell through Microsoft (aka Transactable, SaaS Transact)
 
+## Test Drive
+- Test drives give customers access to a **preconfigured environment** for a fixed number of hours.
+- This includes a hands-on, self-guided tour of your product’s key features and benefits being demonstrated in a real-world implementation scenario.
+- You can offer Test Drives across all listing, including Free Trial.
+
 ## Upgrade flow
 - Contact Me -> Trial = Re-publish offer 
 - Contact Me -> Transact = Create new offer

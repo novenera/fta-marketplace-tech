@@ -27,10 +27,10 @@
 
 ## Minimum technical requirements for Free Trial, Get it Now, Transact
 - Your SaaS application must be a multitenant solution.
-- You can enable both Microsoft Accounts (MSA) and Azure Active Directory (Azure AD) for authenticating users.
 - You must create a landing page. After a user purchases your offer, they’re directed to the landing page. This helps them complete any additional provisioning or setup that/s required. 
   - [Build the landing page for your transactable SaaS offer in the commercial marketplace](https://docs.microsoft.com/en-us/azure/marketplace/azure-ad-transactable-saas-landing-page)
   - [Build the landing page for your free or trial SaaS offer in the commercial marketplace](https://docs.microsoft.com/en-us/azure/marketplace/azure-ad-free-or-trial-landing-page)
+- You can enable both Microsoft Accounts (MSA) and Azure Active Directory (Azure AD) for authenticating users, but not required.
 
 ## Additional technical requirements for Transact
 - Azure AD with single sign-on (SSO) identity management and authentication is required for the buying user accessing the landing page. More on this [here](https://docs.microsoft.com/en-us/azure/marketplace/azure-ad-saas)

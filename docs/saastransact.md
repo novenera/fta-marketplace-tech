@@ -19,6 +19,11 @@
 
 ## Minimum technical requirements for Contact Me
 - Connect to the CRM system to managed [customer leads](https://docs.microsoft.com/en-us/azure/marketplace/partner-center-portal/commercial-marketplace-get-customer-leads#connect-to-your-crm-system).
+  - Dynamics 365 for Customer Engagement
+  - Marketo
+  - Salesforce
+  - Azure Table 
+  - HTTPS endpoint in Power Automate
 
 ## Minimum technical requirements for Free Trial, Get it Now, Transact
 - Your SaaS application must be a multitenant solution.

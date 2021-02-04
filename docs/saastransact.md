@@ -18,7 +18,7 @@
 - To add Test Drive to any offer = Re-publish offer
 
 ## Minimum technical requirements for Contact Me
-- Connect to the CRM system to managed [customer leads](https://docs.microsoft.com/en-us/azure/marketplace/plan-saas-offer#customer-leads).
+- Connect to the CRM system to managed [customer leads](https://docs.microsoft.com/en-us/azure/marketplace/partner-center-portal/commercial-marketplace-get-customer-leads#connect-to-your-crm-system).
 
 ## Minimum technical requirements for Free Trial, Get it Now, Transact
 - Your SaaS application must be a multitenant solution.

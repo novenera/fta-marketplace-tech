@@ -51,10 +51,11 @@ More details [here](https://docs.microsoft.com/en-us/azure/marketplace/plan-saas
 ![SaaS Architectural Choices](/images/archchoices.png)
 
 
-## Dev/Test approach
-- Plan creating two offers, test and public
-- With test
-  - Have the same marketing language as the public
+## Best Practices
+### DEV and PROD offers
+- Plan creating two offers: test and development (DEV) and production (PROD) 
+- With DEV
+  - Have the same marketing language as the PROD
   - Add preview users
   - Add plans/meters with $0
   - Publish
@@ -64,6 +65,8 @@ More details [here](https://docs.microsoft.com/en-us/azure/marketplace/plan-saas
   - Replicate marketing content
   - Add real plans
   - Publish
+
+More details [here](https://docs.microsoft.com/en-us/azure/marketplace/create-saas-dev-test-offer)
 
 
 

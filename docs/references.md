@@ -4,6 +4,7 @@
 | Topic | Description
 |:----- | :----------
 |[Intro to Microsoft Commercial Marketplace](http://aka.ms/LearnMarketplace)
+|[Microsoft Commercial Marketplace samples index](https://github.com/microsoft/commercial-marketplace-samples) | A collection of solutions a publisher can use to target different Commercial Marketplace scenarios.
 
 ## SaaS Transact
 

@@ -23,6 +23,8 @@
 
 ## Best Practices
 - Deployment scripts need to be written in either Azure CLI or Powershell, but not a combination of both.
+- Follow [ARM templates best practices guide](https://aka.ms/Best-Practices-Guide) before uploading to expedite certification.
+- While in development, run templates through [ARM Template Toolkit (arm-ttk)](https://github.com/Azure/arm-ttk) to validate your templates across ARM coding best practices.
 
 ## Demo
 ![Managed App Options](/images/manage_app_options.png)

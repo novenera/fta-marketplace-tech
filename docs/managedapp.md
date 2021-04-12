@@ -21,13 +21,13 @@
 - Create an Azure Active Directory (AAD) app, you need to share your AAD Direcotry (tenant) ID and AAD application ID.
 - AAD application ID will be associated to your publisher ID and can only be re-used within this publisher account.
 
-## Best Practices
-- Deployment scripts need to be written in either Azure CLI or Powershell, but not a combination of both.
-- Follow [ARM templates best practices guide](https://aka.ms/Best-Practices-Guide) before uploading to expedite certification.
-- While in development, run templates through [ARM Template Toolkit (arm-ttk)](https://github.com/Azure/arm-ttk) to validate your templates across ARM coding best practices.
-
 ## Demo
 ![Managed App Options](/images/manage_app_options.png)
 - Creating Managed Application, and test publish this internally as a Service Catalog App - [Quickstart: Create and publish a managed application definition](https://docs.microsoft.com/en-us/azure/azure-resource-manager/managed-applications/publish-service-catalog-app?tabs=azure-powershell)
 - Once you have the Managed Application and its deployable package, you can proceed to [create Azure application offer](https://docs.microsoft.com/en-us/azure/marketplace/create-new-azure-apps-offer) in the Commercial Marketplace.
 - As a publisher, ensure that you keep track of all your customer subscriptions by setting up [customer usage attribution](https://docs.microsoft.com/en-us/azure/marketplace/azure-partner-customer-usage-attribution)
+
+## Best Practices
+- Deployment scripts need to be written in either Azure CLI or Powershell, but not a combination of both.
+- Follow [ARM templates best practices guide](https://aka.ms/Best-Practices-Guide) before uploading to expedite certification.
+- While in development, run templates through [ARM Template Toolkit (arm-ttk)](https://github.com/Azure/arm-ttk) to validate your templates across ARM coding best practices.

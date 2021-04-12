@@ -113,7 +113,8 @@ More details [here](https://docs.microsoft.com/en-us/azure/marketplace/plan-saas
     - Publish
 
   More details [here](https://docs.microsoft.com/en-us/azure/marketplace/create-saas-dev-test-offer)
-
+  
+- Resolve all certification warnings whilst in Preview to help cut through publish time to production
 
 
 

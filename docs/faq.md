@@ -1,6 +1,8 @@
 # Frequently Asked Questions
 
-## I have written CLI and Powershell scripts to deploy my solution instead of ARM templates, how will I be able to call these scripts to deploy my Managed app?
+- [Commercial Marketplace FAQ](https://docs.microsoft.com/en-us/azure/marketplace/marketplace-faq-publisher-guide)
+
+<!-- ## I have written CLI and Powershell scripts to deploy my solution instead of ARM templates, how will I be able to call these scripts to deploy my Managed app?
 You can do that using [ARM deployment scripts](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/deployment-script-template).
 
 ## My managed app solution is a web app and I would like configure it to use Azure AD login, how do I do that?
@@ -10,6 +12,6 @@ The managed identity would need to be assigned to the [Application Administrator
 
 ![Assign user-managed identity to AD role screenshot](/images/assignadrole.png)
 
-Then, pass this managed identity as a parameter to the managed app thru the [Identity selector](https://docs.microsoft.com/en-us/azure/azure-resource-manager/managed-applications/microsoft-managedidentity-identityselector).
+Then, pass this managed identity as a parameter to the managed app thru the [Identity selector](https://docs.microsoft.com/en-us/azure/azure-resource-manager/managed-applications/microsoft-managedidentity-identityselector). --!>
  
 

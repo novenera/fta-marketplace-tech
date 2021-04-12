@@ -21,7 +21,16 @@
 - Create an Azure Active Directory (AAD) app, you need to share your AAD Direcotry (tenant) ID and AAD application ID.
 - AAD application ID will be associated to your publisher ID and can only be re-used within this publisher account.
 
-![Managed App Options](/images/manage_app_options.png)
+## Types of managed applications
+- Service Catalog - catalog of apps available for your organization, for internal use only
+- Marketplace - public catalog of managed apps offered by ISVs, MSPs, and SIs that can be purchased thru the Commercial marketplace
+
+![Managed App Types](https://docs.microsoft.com/en-au/azure/azure-resource-manager/managed-applications/media/overview/manage_app_options.png)
+
+## Resource groups for managed applications
+- Managed resource group
+- Application resource group
+![Managed App Resource Groups](https://docs.microsoft.com/en-au/azure/azure-resource-manager/managed-applications/media/overview/access.png)
 
 ## Demo
 - Creating Managed Application, and test publish this internally as a Service Catalog App - [Quickstart: Create and publish a managed application definition](https://docs.microsoft.com/en-us/azure/azure-resource-manager/managed-applications/publish-service-catalog-app?tabs=azure-powershell)

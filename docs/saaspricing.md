@@ -8,7 +8,7 @@
          Plan 2 – Premium:
                   $10/Month
                   $1000/Year ( – $200 discount)
-- Per seat - without upper limit, with upper limit and same per seat pricing, discount based on seat volume
+- Per user - without upper limit, with upper limit and same per seat pricing, discount based on seat volume
   - e.g. Plan 1 1-100 Seats $10/month/Seat
          Plan 2 101-200 Seats $8/month/Seat
          Plan 3 201-300 Seats $6/month/Seat

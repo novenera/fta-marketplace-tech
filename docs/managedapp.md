@@ -10,7 +10,7 @@
 
 ## Publish flow
 - Managed applications are by default transactable
-- To add Testdrive to any offer = Republish offer
+- To add Test drive to any offer = Republish offer
 
 ## Prequisites 
 - Familiar with ARM

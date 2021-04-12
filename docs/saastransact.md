@@ -95,24 +95,24 @@ More details [here](https://docs.microsoft.com/en-us/azure/marketplace/plan-saas
 ![SaaS Architectural Choices](/images/archchoices.png)
 
 ## Best Practices
-### DEV and PROD offers
-- Plan creating two offers: test and development (DEV) and production (PROD) 
-- With DEV
-  - Have the same marketing language as the PROD
-  - Add preview users
-  - Add plans/meters with $0
-  - Publish
-  - Deploy dedicated endpoint for the app that hosts your Landing Page and Connection Webhook.  The app must have a separate app registration application ID (client ID) in a separate Dev AAD tenant.
-  - **DO NOT GO LIVE!**
-  
-  ![SaaS Preview Offer](/images/previewoffer.png)
-- With PROD
-  - Replicate marketing content
-  - Add real plans
-  - As with the DEV offer, have dedicated Landing page and connection webhook endpoint, and the app is registered to a Prod AAD tenant.
-  - Publish
 
-More details [here](https://docs.microsoft.com/en-us/azure/marketplace/create-saas-dev-test-offer)
+- Plan creating two offers: test and development (DEV) and production (PROD) 
+  - With DEV
+    - Have the same marketing language as the PROD
+    - Add preview users
+    - Add plans/meters with $0
+    - Publish
+    - Deploy dedicated endpoint for the app that hosts your Landing Page and Connection Webhook.  The app must have a separate app registration application ID (client ID) in a separate Dev AAD tenant.
+    - **DO NOT GO LIVE!**
+
+    ![SaaS Preview Offer](/images/previewoffer.png)
+  - With PROD
+    - Replicate marketing content
+    - Add real plans
+    - As with the DEV offer, have dedicated Landing page and connection webhook endpoint, and the app is registered to a Prod AAD tenant.
+    - Publish
+
+  More details [here](https://docs.microsoft.com/en-us/azure/marketplace/create-saas-dev-test-offer)
 
 
 

@@ -60,6 +60,7 @@ More details [here](https://docs.microsoft.com/en-us/azure/marketplace/plan-saas
   - Add plans/meters with $0
   - Publish
   - **DO NOT GO LIVE!**
+  
   ![SaaS Preview Offer](/images/previewoffer.png)
 - With PROD
   - Replicate marketing content

@@ -1,5 +1,4 @@
 # Welcome to the FastTrack for Azure - Azure Marketplace Technical Session
-<!--
 
 > This call will not be recorded due to the wide audience and to encourage questions.
 
@@ -10,7 +9,6 @@
 **Feeback** We would love to hear your thoughts, please provide us your feedback [//aka.ms/ftalive](https://aka.ms/ftalive).
 
 ![Feedback screenshot](/images/feedback.png)
--->
 
 Agenda
 1. [Introductions](./docs/intro.md)

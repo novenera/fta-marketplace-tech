@@ -45,3 +45,7 @@
 - Deployment scripts need to be written in either Azure CLI or Powershell, but not a combination of both.
 - Follow [ARM templates best practices guide](https://aka.ms/Best-Practices-Guide) before uploading to expedite certification.
 - While in development, run templates through [ARM Template Toolkit (arm-ttk)](https://github.com/Azure/arm-ttk) to validate your templates across ARM coding best practices.
+- DEV and PROD deployment
+  - For inner loop development and quick iteration as you build new features to your Managed Apps, it is recommended to publish your managed apps to the Service Catalog.  
+  - Once you are ready run User Acceptance Testing,  create an DEV AMA offer, publish and run the automated validated until you get to the Preview phase. 
+  - When ready to releas, you can create a separate PROD AMA offer (as in the SaaS Transact DEV/PROD publishing guidance), and then publish your AMA until you go live.

@@ -59,9 +59,9 @@ More details [here](https://docs.microsoft.com/en-us/azure/marketplace/plan-saas
   - Add preview users
   - Add plans/meters with $0
   - Publish
-  - **DO NOT GO PUBLIC!**
+  - **DO NOT GO LIVE!**
   ![SaaS Preview Offer](/images/previewoffer.png)
-- With public
+- With PROD
   - Replicate marketing content
   - Add real plans
   - Publish

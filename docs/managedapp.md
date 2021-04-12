@@ -2,7 +2,7 @@
 #### [prev](./saastransact.md) | [home](./welcome.md)  | [next](./references.md)
 - Solution template plans, on the other hand, are non-transactable in the commercial marketplace but can be used to deploy paid VMs. Use this when the customer will manage the solution and transactions are build through another plan.
 - Managed Application (aka Manage App) is a type of Azure Application offer plan to publish solution to the commercial marketplace that is transactable, used to deploy solution into the customer's subscription that will be managed by the partner/publisher.  
-- We will focus on creating and publishing Managed App.
+- We will focus on creating and publishing Managed App to Azure Marketplace. (Azure Managed Application or AMA)
 
 ## Listing Options
 - Get It Now
@@ -28,14 +28,18 @@
 ![Managed App Types](https://docs.microsoft.com/en-au/azure/azure-resource-manager/managed-applications/media/overview/manage_app_options.png)
 
 ## Resource groups for managed applications
-- Managed resource group
-- Application resource group
+- Managed resource group - holds the managed application instance.  This is managed by the customer.
+- Application resource group - holds all the resources that make up your managed application. This is managed by the publisher, permanently or for a limited time, and can only grant customers to do specific actions on resources. 
+
 ![Managed App Resource Groups](https://docs.microsoft.com/en-au/azure/azure-resource-manager/managed-applications/media/overview/access.png)
 
+## Azure Policy on managed applications
+- You can enable Azure policy to validate and audit your managed applications.
+
 ## Demo
-- Creating Managed Application, and test publish this internally as a Service Catalog App - [Quickstart: Create and publish a managed application definition](https://docs.microsoft.com/en-us/azure/azure-resource-manager/managed-applications/publish-service-catalog-app?tabs=azure-powershell)
-- Once you have the Managed Application and its deployable package, you can proceed to [create Azure application offer](https://docs.microsoft.com/en-us/azure/marketplace/create-new-azure-apps-offer) in the Commercial Marketplace.
+- Create the Managed application by defining the artifacts and its deployable package, and then proceed on [creating Azure application offer](https://docs.microsoft.com/en-us/azure/marketplace/create-new-azure-apps-offer) in the Commercial Marketplace.
 - As a publisher, ensure that you keep track of all your customer subscriptions using [customer usage attribution](https://docs.microsoft.com/en-us/azure/marketplace/azure-partner-customer-usage-attribution).  This will be added to all new Azure Managed Apps published to the Marketplace.
+- Creating Managed Application, and test publish this internally as a Service Catalog App - [Quickstart: Create and publish a managed application definition](https://docs.microsoft.com/en-us/azure/azure-resource-manager/managed-applications/publish-service-catalog-app?tabs=azure-powershell)
 
 ## Best Practices
 - Deployment scripts need to be written in either Azure CLI or Powershell, but not a combination of both.

@@ -21,3 +21,5 @@
 ### Out of Scope
 - Deployment of D365, O365 and Power Apps to the Commercial Marketplace (AppSource storefront)
 
+
+#### [prev](./welcome.md) | [home](./welcome.md)  | [next](./concepts.md)

@@ -116,5 +116,5 @@ More details [here](https://docs.microsoft.com/en-us/azure/marketplace/plan-saas
   
 - Resolve all certification warnings whilst in Preview to help cut through publish time to production
 
-
+#### [prev](./concepts.md) | [home](./welcome.md)  | [next](./managedapp.md)
 

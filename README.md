@@ -9,7 +9,7 @@
 
 **Feedback** We would love to hear your thoughts, please provide us your feedback [https://aka.ms/ftalive-marketplace-feedback](https://aka.ms/ftalive-marketplace-feedback).
 
-![Feedback screenshot](/images/feedback2.png)
+![Feedback screenshot](/images/feedback.png)
 
 Agenda
 1. [Introductions](./docs/intro.md)

@@ -21,3 +21,5 @@
 ### Publisher initial requirements
 - Solution should be in production, artifacts should be deployed in the publisher's Azure subscription
 - Have signed up as a Microsoft Partner and have the Commercial Marketplace program in the [Partner Center center dashboard](https://partner.microsoft.com/en-us/dashboard/commercial-marketplace/overview). 
+
+#### [prev](./why.md) | [home](./welcome.md)  | [next](./saastransact.md)

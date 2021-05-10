@@ -49,3 +49,5 @@
   - For inner loop development and quick iteration as you build new features to your Managed Apps, it is recommended to publish your managed apps to the Service Catalog.  
   - Once you are ready run User Acceptance Testing,  create an DEV AMA offer, publish and run the automated validated until you get to the Preview phase. 
   - When ready to releas, you can create a separate PROD AMA offer (as in the SaaS Transact DEV/PROD publishing guidance), and then publish your AMA until you go live.
+ 
+ #### [prev](./saastransact.md) | [home](./welcome.md)  | [next](./references.md)

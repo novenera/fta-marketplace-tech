@@ -7,7 +7,7 @@
 
 **Slideless** No PowerPoint, we promise! As we update this content you will get the changes straight away.
 
-**Feeback** We would love to hear your thoughts, please provide us your feedback [//aka.ms/ftalive](https://aka.ms/ftalive).
+**Feedback** We would love to hear your thoughts, please provide us your feedback [//aka.ms/ftalive-marketplace-feedback](https://aka.ms/ftalive-marketplace-feedback).
 
 ![Feedback screenshot](/images/feedback.png)
 

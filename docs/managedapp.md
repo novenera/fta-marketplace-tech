@@ -28,8 +28,8 @@
 ![Managed App Types](https://docs.microsoft.com/en-au/azure/azure-resource-manager/managed-applications/media/overview/manage_app_options.png)
 
 ## Resource groups for managed applications
-- Managed resource group - holds all the resources that make up your managed application. The publisher has full access to this resource group, permanently or for a limited time (justs-in-time access), and can only grant customers to do specific actions on resources.
 - Application resource group -  holds the managed application instance.  This is managed by the customer.
+- Managed resource group - holds all the resources that make up your managed application. The publisher has full access to this resource group, permanently or for a limited time (justs-in-time access), and can only grant customers to do specific actions on resources.
 
 ![Managed App Resource Groups](https://docs.microsoft.com/en-au/azure/azure-resource-manager/managed-applications/media/overview/access.png)
 
